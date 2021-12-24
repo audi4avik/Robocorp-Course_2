@@ -5,7 +5,7 @@
 - Saves the screenshot of the ordechromered robot.
 - Embeds the screenshot of the robot to the PDF receipt.
 - Creates ZIP archive of the receipts and the images.
-- 
+
 
 ## Additional Implementations
 
@@ -14,3 +14,6 @@
 - Separate Input file to handle the test data (variables)
 - Included Test Setup and Teardown in common.robot file
 - Implemented vault feature to read secret
+
+
+*Course Link: https://robocorp.com/docs/courses/build-a-robot *
