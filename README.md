@@ -16,4 +16,4 @@
 - Implemented vault feature to read secret
 
 
-*Course Link: https://robocorp.com/docs/courses/build-a-robot *
+Course Link: https://robocorp.com/docs/courses/build-a-robot
