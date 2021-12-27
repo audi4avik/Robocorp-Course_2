@@ -6,7 +6,7 @@ Library    Dialogs
 *** Keywords ***
 Begin Test
     ${browser} =	Get Value From User      Please enter the desired browser to start!
-    Open Available Browser   about:none    ${browser}  
+    Open Available Browser    ${browser}  
     Maximize Browser Window
 
 End Test
